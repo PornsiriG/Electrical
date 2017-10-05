@@ -1,2 +1,3 @@
-Student Code          Program Description
+﻿Student Code          Program Description
 58030205              โปรแกรมคำนวณ กระแสไฟฟ้าในวงจร
+58030196	โปรแกรมคำนวณ ค่าความต้านทานวงจรขนาน 5 ตัว
